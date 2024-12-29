@@ -34,7 +34,7 @@ jobs:
       - name: Run mdl
         uses: actionshub/markdownlint@main
         with:
-          filesToIgnoreRegex: "(exampleSite/content/|archetypes).*"
+          filesToIgnoreRegex: "(site/content/|archetypes).*"
 
   build:
     runs-on: ubuntu-latest
@@ -63,4 +63,4 @@ jobs:
             --theme hugo-theme-notrack/ \
             --themesDir ../../ \
             --printUnusedTemplates \
-        working-directory: ./docs
+        working-directory: ./site
