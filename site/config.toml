@@ -18,8 +18,8 @@ blogLatestHeading = "Events"  # Heading above blog summary
 nBlogLatest = 4  # Number of blog post in summary
 
 [params.social]
-github = "example"
-linkedin = "example"
+github = "artsglobal"
+linkedin = "artsglobal"
 email = "example@example.com"
 mastodon = "example"
 rss = "yes"  # Value doesn't matter - it will always link to your blog RSS
