@@ -42,9 +42,8 @@ jobs:
           ls
           hugo \
             --minify \
-            --baseURL artsglobal.github.com/musician \
             --themesDir ../../ \
-            --printUnusedTemplates \
+            --printUnusedTemplates
         working-directory: ./site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
