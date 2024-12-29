@@ -1,7 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Musician Linlin Yu"
-theme = "notrack"
+theme = "musician"
 pagination.pagerSize = 4  # Posts per page, e.g. in the blog
 
 [params]
