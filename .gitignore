@@ -1,2 +1,4 @@
 .hugo_build.lock
 styles.css.map
+.mdl.rb
+.mdlrc
