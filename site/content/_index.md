@@ -8,9 +8,9 @@ menu:
     weight: 1
 ---
 
-{{<image float="right" width="11em" frame="true" caption="Portrait of me by Michiel Jansz. van Mierevelt" src="img/hugo-portrait.jpg" >}}
+{{<image float="right" width="11em" frame="true" caption="Linlin Yu" src="img/llymz.jpg" >}}
 
-Hello, I'm Hugo Grotius and this is my personal page. I'm a Dutch lawyer and
+Hello, I'm Linlin Yu and this is my personal page. I'm a Dutch lawyer and
 diplomat with experience from academia and government, having published a large
 number of books on international law, sometimes even being called the "father"
 of this field of study. I have experience working as a diplomat from serving as

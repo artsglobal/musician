@@ -40,10 +40,7 @@ jobs:
           set -x
           pwd
           ls
-          hugo \
-            --minify \
-            --themesDir ../../ \
-            --printUnusedTemplates
+          hugo --gc --minify --themesDir ../../ --printUnusedTemplates
         working-directory: ./site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
