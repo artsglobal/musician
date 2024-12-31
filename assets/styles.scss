@@ -1,19 +1,19 @@
 // Colors
-$midnight-blue: #07608f;
+$midnight-blue: #90d0f3;
 $midnight-matte: #4c7e99;
-$text-color: #444;
-$tab-border-color: #ddd;
+$text-color: #eee4e4;
+$tab-border-color: #959191;
 $tab-active-color: #474a4f;
-$heading-gray: #333;
-$caption-color: #ccc;
+$heading-gray: #eee9e9;
+$caption-color: #958f8f;
 $close-button-gray: #f1f1f1;
 $close-hover-gray: #bbb;
 $contactlinks-color: #eee;
-$contactlinks-text-color: #524e59;
+$contactlinks-text-color: #9d99a5;
 $cv-red: #b25347;
-$light-text: #5f5a6f;
-$very-light-text: #767676;
-$medium-light-text: #4f4a5f;
+$light-text: #e3dff2;
+$very-light-text: #eadddd;
+$medium-light-text: #e8e6ef;
 $code-background: #f3f3f3;
 $codeblock-background: #f6f8fa;
 $code-text: #f8f8f2;
@@ -58,7 +58,7 @@ body {
     line-height: $base-line-height * 1.1;
     font-family: FreeSerif, serif;
 
-    background-image: url("/musician/img/pipa2.png");
+    background-image: url("/musician/img/linlin1.jpg");
     background-position: center;
     background-size: cover;
 
@@ -85,7 +85,7 @@ main {
     display: block;
     margin: 0;
     padding: 1em 1em;
-    background-color: rgba(255, 255, 255, 0.80);
+    background-color: rgba(31, 30, 30, 0.8);
 
     @media #{$mq-small} {
         margin: 0 15%;
@@ -352,7 +352,7 @@ nav li:hover {
 }
 
 .myname a {
-    color: black;
+    color: rgb(254, 254, 254);
     text-decoration: none;
     font-family: FreeSerif, serif;
     font-style: italic;

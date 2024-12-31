@@ -4,11 +4,11 @@ date: 2020-06-01T16:16:24+02:00
 draft: false
 menu:
   main:
-    name: "Home"
+    name: "首页"
     weight: 1
 ---
 
-{{<image float="right" width="11em" frame="true" caption="Linlin Yu" src="img/llymz.jpg" >}}
+{{<image float="right" width="20em" frame="true" caption="演出" src="img/linlin2.jpg" >}}
 
 Hello, I'm Linlin Yu and this is my personal page. I'm a Dutch lawyer and
 diplomat with experience from academia and government, having published a large

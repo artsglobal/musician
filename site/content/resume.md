@@ -4,7 +4,7 @@ date: 2020-06-01T17:11:12+02:00
 draft: false
 menu:
   main:
-    name: "Resume"
+    name: "简历"
     weight: 5
 ---
 
