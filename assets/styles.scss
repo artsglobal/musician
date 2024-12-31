@@ -58,6 +58,10 @@ body {
     line-height: $base-line-height * 1.1;
     font-family: FreeSerif, serif;
 
+    background-image: url("/musician/img/pipa2.png");
+    background-position: center;
+    background-size: cover;
+
     @media #{$mq-medium} {
         font-size: $base-font-size*1.2;
         line-height: $base-line-height*1.2;
@@ -81,7 +85,7 @@ main {
     display: block;
     margin: 0;
     padding: 1em 1em;
-    background-color: white;
+    background-color: rgba(255, 255, 255, 0.80);
 
     @media #{$mq-small} {
         margin: 0 15%;

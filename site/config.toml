@@ -13,7 +13,7 @@ showTaxonomyLinks = false  # Show e.g. a "Category" button at top of blog page
 # You can choose to display a summary of your blog on the home page. Below are
 # the settings relevant for that.
 showBlogLatest = true  # Whether to show it or not
-mainSections = ["blog"]  # Section name of your blog (folder name)
+mainSections = ["events"]  # Section name of your blog (folder name)
 blogLatestHeading = "Events"  # Heading above blog summary
 nBlogLatest = 4  # Number of blog post in summary
 
