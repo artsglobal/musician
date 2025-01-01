@@ -8,23 +8,16 @@ menu:
     weight: 1
 ---
 
-{{<image float="right" width="20em" frame="true" caption="演出" src="img/linlin2.jpg" >}}
+俞伶伶是一位琵琶演奏大师，古代琵琶音乐的杰出传承者，2016年曾获提名瑞士音乐大奖。她在日内瓦音乐学院（HEM）教授中国传统音乐《江南丝竹》。
 
-Hello, I'm Linlin Yu and this is my personal page. I'm a Dutch lawyer and
-diplomat with experience from academia and government, having published a large
-number of books on international law, sometimes even being called the "father"
-of this field of study. I have experience working as a diplomat from serving as
-the Swedish Ambassador to France. For a more comprehensive list of my experience,
-see the [Resume]({{< ref "resume.md" >}}) tab.
 
-After having been wrongfully convicted of treason in the Netherlands and
-being handed a life sentence, I managed to escape with the help of my dear
-wife Maria. She brought a chest of books to the prison where I was incarcerated
-(nothing out of the ordinary since I am an avid reader) which was then
-transported back out of the prison, with the the books replaced by yours truly!
+俞伶伶出生于中国东南部的杭州市。八岁时，她开始学习小提琴和二胡，随后专注于琵琶的学习。十三岁时，她在中央音乐学院入学考试中获得第一名，被誉为神童。关于她卓越音乐才能的纪录片（《春蕾》，《小天才》）以及多部电视和媒体报道相继推出。二十二岁时，俞伶伶获得了北京中国音乐学院的艺术学士学位。同年，她受聘为北京清华大学的讲师。
 
-I have a small gallery of works of art depicting me under the [Gallery]({{< ref "hugo-gallery.md" >}}) tab.
-I regularly post lorem ipsum om my [Events]({{< ref "events/_index.md" >}}), and
-there are also examples of how to include images in the theme of the site.
-If you want to get in touch, you can find my social media links and email
-address under the [Contact]({{< ref "contact.md" >}}) tab.
+
+二十五岁时，她赢得了全国中国传统音乐比赛的冠军。她与自己的导师刘德海（最重要的琵琶演奏家、教授和作曲家）一起，带着她挚爱的乐器走遍中国，进行教学和公众演出。刘德海对俞伶伶的音乐发展产生了深远的影响。
+
+
+她还师从其他著名的琵琶教授，如罗洁莉、王范地和孙惟熙。这些导师为俞伶伶提供了开阔视野的机会，使她能够丰富曲目，涵盖多种风格，并找到属于自己的艺术道路，充分展现其个性。她的演奏风格结合了卓越的技巧掌握，既有强大的表现力，又清晰、温暖且富有创造性，其特点是明快与细腻，感情与宁静的交融，体现了中国哲学中的两大原则：阴与阳。
+
+
+{{<image caption="2017年柴可夫斯基家乡 Iekaterinbourg 国际音乐节 俞玲玲琵琶专场" src="img/linlin2.jpg" >}}
