@@ -22,7 +22,7 @@ Note the "+extended" after the version number. Information about the standard
 and extended versions may be found within Hugo's [installation
 instructions](https://gohugo.io/installation/).
 
-## Demonstration web page
+## Demonstration web page 
 
 The theme has a demonstration web page that looks like this:
 
