@@ -14,8 +14,8 @@ showTaxonomyLinks = false  # Show e.g. a "Category" button at top of blog page
 # the settings relevant for that.
 showBlogLatest = true  # Whether to show it or not
 mainSections = ["events"]  # Section name of your blog (folder name)
-blogLatestHeading = "Events"  # Heading above blog summary
-nBlogLatest = 4  # Number of blog post in summary
+blogLatestHeading = "演出及活动"  # Heading above blog summary
+nBlogLatest = 3  # Number of blog post in summary
 
 [params.social]
 github = "artsglobal"
