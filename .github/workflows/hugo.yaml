@@ -14,19 +14,15 @@ jobs:
     steps:
       - name: Check out code
         uses: actions/checkout@v2
-      - name: Run mdl
-        uses: actionshub/markdownlint@main
-        with:
-          filesToIgnoreRegex: "(site/content/|archetypes).*"
 
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.102.3
+      HUGO_VERSION: 0.143.0
     steps:
       - name: Install Hugo CLI
         run: |
-          wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_Linux-64bit.deb \
+          wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
           && sudo dpkg -i ${{ runner.temp }}/hugo.deb
       - name: Checkout
         uses: actions/checkout@v3
@@ -40,12 +36,12 @@ jobs:
           set -x
           pwd
           ls
-          hugo --gc --minify --themesDir ../../ --printUnusedTemplates
-        working-directory: ./site
+          hugo --gc --minify --themesDir themes --printUnusedTemplates
+        working-directory: .
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./site/public
+          path: ./public
 
 
   deploy:

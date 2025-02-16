@@ -2,5 +2,6 @@
 styles.css.map
 .mdl.rb
 .mdlrc
-site/public
+public
+resources/_gen
 site/resources/_gen

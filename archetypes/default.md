@@ -1,9 +1,6 @@
-+++
-title = '{{ replace .Name "-" " " | title }}'
-date = {{ .Date }}
-[menu.main]
-name =
-weight =
-+++
-
+---
+title: "{{ replace .Name "-" " " | title }}"
+date: {{ .Date }}
+draft: true
+---
 

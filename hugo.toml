@@ -1,7 +1,7 @@
 baseURL = "https://artsglobal.github.io/musician"
 languageCode = "en-us"
 title = "Musician Linlin Yu"
-theme = "musician"
+theme = "notrack"
 pagination.pagerSize = 4  # Posts per page, e.g. in the blog
 
 [params]
@@ -26,10 +26,11 @@ rss = "yes"  # Value doesn't matter - it will always link to your blog RSS
 keybase = "example"
 
 [taxonomies]
-year = "year"
-month = "month"
-tags = "tags"
-categories = "categories"
+year = "年"
+month = "月"
+tags = "标签"
+categories = "类别"
 
 [permalinks]
   blog = "/blog/:year/:month/:slug"
+
