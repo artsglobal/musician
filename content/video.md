@@ -7,6 +7,17 @@ menu:
     weight: 180
 ---
 
+####  2025年3月 浔阳夜月片段 + 中花六板片段 + 行街片段（指导：俞玲玲）| 日内瓦音乐大学Ensemble silk bamboo
+{{<bilibili aid="114213917826681" bvid="BV17AokYcEKC" cid="29036708806">}}
+
+####  2025年3月 学生作品《江南丝竹音乐实践》（指导：俞玲玲）| 日内瓦音乐大学Ensemble silk bamboo
+{{<bilibili aid="114213951379158" bvid="BV1jNokYfE5u" cid="29036710513">}}
+
+####  2025年3月 潮州古乐“大八板” （指导：俞玲玲）| 日内瓦音乐大学Ensemble silk bamboo
+{{<bilibili aid="114213968156347" bvid="BV1jPokY8Ef5" cid="29036709334">}}
+
+####  2025年 江南丝竹老六板 （指导：俞玲玲）| 日内瓦音乐大学Ensemble silk bamboo
+{{<bilibili aid="649389927" bvid="BV1Le4y1574b" cid="942221532">}}
 
 #### 俞玲玲 独奏 瀛洲古调快板
 曹安和演奏谱:《诉冤》《鹂鸣深树》 《一马双驼》《平沙拨浪》《云里雁》《平沙落雁》《天鹅反掌》《沙湖撩石》

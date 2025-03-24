@@ -7,7 +7,14 @@ menu:
     weight: 200
 ---
 
-#### 2025年日内瓦伯尔尼中国使馆新春晚会
+#### 2025年3月21日，《丝竹之韵》日内瓦高等音乐学院合奏音乐会
+
+{{< container >}}
+  {{<image src="img/events/2025_03_21_geneva_culture.jpeg" >}}
+{{< /container >}}
+
+
+#### 2025年元旦，日内瓦伯尔尼中国使馆新春晚会
 
 {{< container >}}
   {{<image src="img/events/2025_group1.jpg" >}}

@@ -7,7 +7,7 @@ pagination.pagerSize = 4  # Posts per page, e.g. in the blog
 [params]
 author = "Linlin Yu"
 siteHeading = "俞玲玲" # defaults to author
-favicon = "hugo_grotius.png" # The small icon shown in browser tabs
+favicon = "pipa.jpg" # The small icon shown in browser tabs
 showTaxonomyLinks = false  # Show e.g. a "Category" button at top of blog page
 
 # You can choose to display a summary of your blog on the home page. Below are
