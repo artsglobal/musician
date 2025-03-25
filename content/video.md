@@ -10,6 +10,9 @@ menu:
 ####  2025年3月 浔阳夜月片段 + 中花六板片段 + 行街片段（指导：俞玲玲）| 日内瓦音乐大学Ensemble silk bamboo
 {{<bilibili aid="114213917826681" bvid="BV17AokYcEKC" cid="29036708806">}}
 
+####  2025年3月 丝竹四重奏音乐会片段 - 德国汉堡易北爱乐厅
+{{<bilibili aid="114220595223733" bvid="BV1tDosYNE1E" cid="29055127038">}}
+
 ####  2025年3月 学生作品《江南丝竹音乐实践》（指导：俞玲玲）| 日内瓦音乐大学Ensemble silk bamboo
 {{<bilibili aid="114213951379158" bvid="BV1jNokYfE5u" cid="29036710513">}}
 

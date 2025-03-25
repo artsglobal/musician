@@ -13,6 +13,12 @@ menu:
   {{<image src="img/events/2025_03_21_geneva_culture.jpeg" >}}
 {{< /container >}}
 
+#### 2025年3月16日，丝竹四重奏音乐会 - 德国汉堡易北爱乐厅
+
+{{< container >}}
+  {{<image src="img/events/2025_03_hanbao_p1.jpg" >}}
+  {{<image src="img/events/2025_03_hanbao_p2.jpg" >}}
+{{< /container >}}
 
 #### 2025年元旦，日内瓦伯尔尼中国使馆新春晚会
 
