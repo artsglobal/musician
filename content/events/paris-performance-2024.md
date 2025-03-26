@@ -1,12 +1,12 @@
 ---
 title: '2024年12月6日俞玲玲和曾明巴黎音乐会–评论'
 slug: paris-performance
-date: 2024-12-28T23:30:14+02:00
+date: 2024-12-06
 Tags: [琵琶, 笛子, 中国传统音乐]
 Categories: [音乐会]
 ---
 
-# 中国 – 琵琶与笛子：中国传统音乐，柔和而宁静 
+### 中国 – 琵琶与笛子：中国传统音乐，柔和而宁静 
 
 
 作者：Nadia Khouri-Dagher [reporter, Peuples du monde et musiques in Paris](www.musiques-du-monde.com)
