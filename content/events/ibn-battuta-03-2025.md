@@ -1,6 +1,6 @@
 ---
 title: '伊本·白图泰(Ibn Battuta)：穿越时空的旅人 - 伦敦著名音乐厅Barbican Hall'
-slug: ibn-battuta-03-2005
+slug: ibn-battuta-03-2025
 date: 2025-03-17
 Tags: [2025, 英国伦敦, Barbican Hall]
 Categories: [音乐活动]

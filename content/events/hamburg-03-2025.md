@@ -1,6 +1,6 @@
 ---
 title: '丝竹四重奏音乐会 - 德国汉堡易北爱乐厅'
-slug: hamburg-03-2005
+slug: hamburg-03-2025
 date: 2025-03-16
 Tags: [2025, 德国汉堡易北爱乐厅]
 Categories: [音乐活动]

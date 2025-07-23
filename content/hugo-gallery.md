@@ -7,6 +7,12 @@ menu:
     weight: 200
 ---
 
+#### 2025年6月20日，日内瓦音乐节江南丝竹乐队
+{{< container >}}
+  {{<image src="img/events/2025_06_20_silk_bamboo_01.jpeg" >}}
+  {{<image src="img/events/2025_06_20_silk_bamboo_02.jpeg" >}}
+{{< /container >}}
+
 #### 2025年3月21日，《丝竹之韵》日内瓦高等音乐学院合奏音乐会
 {{< container >}}
   {{<image src="img/events/2025_03_21_geneva_culture.jpeg" >}}
